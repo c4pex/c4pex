@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Caroline Santana
 
-**`Desenvolvedora Front-end`**
+**`Estudante`**
 
 Me chamo Caroline Santana, tenho 24 anos e sou natural do Rio de Janeiro, atualmente morando na Paraíba. 
 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Descomplica. Sou apaixonada por tecnologia e videogame desde criança mas nunca havia me aprofundado tanto na area como no ultimo ano.
