@@ -59,6 +59,3 @@ Estou focada atualmente na linguagem JavaScript.
 <br/>
 
 ---
-
-![snake gif](https://github.com/c4pex/c4pex/blob/output/github-contribution-grid-snake.gif)
-
